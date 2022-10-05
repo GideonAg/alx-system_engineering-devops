@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /tmp/ ../ -alR
+ls /boot/ ../ -alR
