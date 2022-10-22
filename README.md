@@ -1,1 +1,1 @@
-Smple alx-devops repo
+Simple alx-devops repo
